@@ -23,38 +23,74 @@ The objective is to guess the movie title by guessing individual letters, and th
 - **Quit Option**: Players can quit the game at any time by entering `0`.
 
 ##Example Game Flow
+<br>
 player1 please enter your name: santoshi
+<br>
 player2 please enter your name: saipriya
+<br>
 santoshi your turn
+<br>
 ******
+<br>
 your letter: a
+<br>
 *a**a*
+<br>
 press 1 to guess the movie or 2 to unlock another letter: 2
+<br>
 your letter: n
+<br>
 *an*a*
+<br>
 press 1 to guess the movie or 2 to unlock another letter: 1
+<br>
 your answer: dangal
+<br>
 Correct!
+<br>
 santoshi your score: 1
+<br>
 Press 1 to continue or 0 to quit: 1
+<br>
 saipriya your turn
+<br>
 ********
+<br>
 your letter: d
+<br>
 d*******
+<br>
 press 1 to guess the movie or 2 to unlock another letter: 2
+<br>
 your letter: m
+<br>
 d******m
+<br>
 press 1 to guess the movie or 2 to unlock another letter: 2
+<br>
 your letter: p
+<br>
 p not found
+<br>
 your letter: a
+<br>
 d*****am
+<br>
 press 1 to guess the movie or 2 to unlock another letter: 1
+<br>
 your answer: drishyam
+<br>
 Correct!
+<br>
 saipriya your score: 1
+<br>
 Press 1 to continue or 0 to quit: 0
+<br>
 santoshi your score: 1
+<br>
 saipriya your score: 1
+<br>
 Thanks for playing
+<br>
 Have a nice day
+<br>
